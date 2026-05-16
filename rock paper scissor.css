@@ -1,0 +1,24 @@
+        .image{
+            height:50px;
+        
+        }
+        .button
+        {
+            background-color: transparent;
+            border:3px solid white;
+            height:100px;
+            width:100px;
+            border-radius:50px;
+            margin:10px;
+            cursor:pointer;
+        }
+        .reset{
+            font-size:larger;
+            padding:2px 15px;
+            font-weight: bold;
+
+        }
+        .y{
+            color:white;
+            font-size:25px;
+        }
